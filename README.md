@@ -25,3 +25,7 @@ Room Availability and Booking Search Functionality: Enable customers to search f
 Booking Management Booking Modification: Allow customers to modify or cancel bookings. Dashboard for Hotel Managers: Provide an overview of bookings and room status.
 
 Notifications and Alerts Shows popup notifications and alerts for bookings, cancellations, and updates.
+
+Final project photos
+![349272406-47fde3d5-371c-43a2-a7ea-4a37cd668dde](https://github.com/user-attachments/assets/6ca7aea0-d6b3-469b-bf8c-d3f13e44dd02)
+
